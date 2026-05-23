@@ -19,6 +19,16 @@ All prompts follow the **RCTF framework** (Role + Context + Task + Format) and u
 3. Paste into Claude/ChatGPT/Gemini
 4. Iterate 2-3 times for best results
 
+
+## More free tools by NEXUS Algo
+
+While you're here — we also ship free **interactive tools** for crypto/algo traders:
+
+- 🐍 [Python Crypto Bot Starter](https://nexus-bot.pro/free/crypto-bot-starter/) — 150-line Binance testnet bot with honest "what's missing" breakdown.
+- 📐 [Grid Bot ROI Calculator](https://nexus-bot.pro/free/grid-calculator/) — First-principles math, fee impact analysis. Interactive form + API.
+
+All MIT-licensed, no signup to use.
+
 ## When prompts hit their ceiling
 
 If you find yourself wanting:
